@@ -1,0 +1,39 @@
+*{
+    background: lightgreen;
+}
+h1{
+    background: gray;
+    color: brown;
+    width: 500px;
+    border-style: dotted;
+    border-color: black;
+}
+div{
+    width: 500px;
+    height: auto;
+    background-color: bisque;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    box-sizing: content-box;
+    border: 20px groove white;
+    border-radius: 50px;
+}
+p{
+    background: bisque;
+    width: 400px;
+    height: auto;
+    border: solid blue;
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#n{
+    background: white;
+    color: blue;
+    border: solid white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
